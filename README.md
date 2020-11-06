@@ -10,6 +10,7 @@ Karuta helper telegram bot
 * Run bot
     ```bash
     git clone https://github.com/reirei0000/node-nemesiskarutachan
+    cd node-nemesiskarutachan
     yarn install
     yarn run nemesiskaruta -- <TELEGRAM_BOT_APITOKEN>
     ```
