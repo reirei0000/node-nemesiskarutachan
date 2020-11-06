@@ -1,0 +1,20 @@
+{
+  "name": "nemesiskarutajs",
+  "version": "0.0.1",
+  "description": "nemesis karuta js",
+  "main": "index.js",
+  "author": "rei0000",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "csvtojson": "^2.0.10",
+    "fs": "^0.0.1-security",
+    "telebot": "^1.4.1"
+  },
+  "scripts": {
+    "nemesiskarutachan": "node src/karutabot.js"
+  },
+  "devDependencies": {
+    "prettier": "2.1.2"
+  }
+}
